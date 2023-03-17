@@ -1,6 +1,6 @@
 ## Portfoli
 
-Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions multiplataforma*.
+Aquest és el meu **portfoli** dels meus estudis del *Cicle Superior de Desenvolupament d'Aplicacions multiplataforma (DAM)*.
 
 Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic:
 
