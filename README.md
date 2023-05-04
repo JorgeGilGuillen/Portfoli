@@ -8,7 +8,7 @@ Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic:
 
 Els mòduls que he fet són:
 
-- [M01-Sistemes Informàtics](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Moduls/M01-SistemesInformatics)
-- [M02-Base De Dades](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Moduls/M02-BasesDades)
-- [M03-Programació](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Moduls/M03-Programacio)
-- [M04-Llenguatge De Marques](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Moduls/M04-LlenguatgesDeMarques)
+- [M01-Sistemes Informàtics](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Mòduls/M01-SistemesInformatics)
+- [M02-Base De Dades](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Mòduls/M02-BasesDades)
+- [M03-Programació](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Mòduls/M03-Programacio)
+- [M04-Llenguatge De Marques](https://github.com/JorgeGilGuillen/Portfoli/tree/main/Mòduls/M04-LlenguatgesDeMarques)
